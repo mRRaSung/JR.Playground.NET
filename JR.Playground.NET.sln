@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPattern", "DesignPatt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workflow", "Workflow\Workflow.csproj", "{9C358D30-A08F-414D-8714-C3E54A747B3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mail", "Mail\Mail.csproj", "{AAA13DAB-0085-4019-A120-73E2578B3E36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mail", "Mail\Mail.csproj", "{AAA13DAB-0085-4019-A120-73E2578B3E36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{F40891E1-3B2F-4B8D-B1A5-EC7A16DFF329}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{AAA13DAB-0085-4019-A120-73E2578B3E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAA13DAB-0085-4019-A120-73E2578B3E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAA13DAB-0085-4019-A120-73E2578B3E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F40891E1-3B2F-4B8D-B1A5-EC7A16DFF329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40891E1-3B2F-4B8D-B1A5-EC7A16DFF329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40891E1-3B2F-4B8D-B1A5-EC7A16DFF329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40891E1-3B2F-4B8D-B1A5-EC7A16DFF329}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
